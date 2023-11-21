@@ -1,0 +1,4 @@
+Equation 1 =-166.375
+Equation 2 =12.0
+Equation 3 =4.0
+Equation 4 =11.0
